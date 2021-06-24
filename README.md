@@ -1,5 +1,11 @@
-Code to replicate some of the experiments given in the presentation.
-All code is in MATLAB.
+Code to replicate some of the experiments given in my lecture
+[High-Dimensional Statistics and Sparsity](
+http://jmota.eps.hw.ac.uk/documents/Mota21-HighDimensionalStatsAndSparsity-UDRC.pdf)
+at [UDRC-EURASIP Summer School](
+https://udrc.eng.ed.ac.uk/udrc-eurasip-summer-school-2021 ).  
+
+All code is in MATLAB. The slides can be found
+[here](http://jmota.eps.hw.ac.uk/documents/Mota21-HighDimensionalStatsAndSparsity-UDRC.pdf).
 
 # Structure
 
